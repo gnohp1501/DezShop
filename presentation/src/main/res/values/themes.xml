@@ -6,4 +6,9 @@
     </style>
 
     <style name="Theme.Deviz" parent="Base.Theme.Deviz" />
+
+    <style name="AppRadioAppStyle" parent="Widget.AppCompat.CompoundButton.RadioButton">
+        <item name="android:textColor">@drawable/my_compound_button_color_selector</item>
+        <item name="drawableTint">@drawable/my_compound_button_color_selector</item>
+    </style>
 </resources>
