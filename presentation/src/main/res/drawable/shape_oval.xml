@@ -1,0 +1,36 @@
+<!--
+rectangle
+oval
+ring
+line
+-->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+
+    <!--  Border radius  -->
+    <corners android:radius="40dp" />
+
+    <!--  For multi color -->
+    <gradient
+        android:angle="45"
+        android:centerX="float"
+        android:centerY="float"
+        android:endColor="#01f1fa"
+        android:gradientRadius="integer"
+        android:startColor="#0189ff"
+        android:type="linear" />
+
+    <!--  For one color -->
+    <!--<solid android:color="#FFFFFF" />-->
+
+    <!--  Set size of shape  -->
+    <size
+        android:width="100dp"
+        android:height="100dp" />
+
+    <!-- make border -->
+    <stroke
+        android:width="10dp"
+        android:color="#FFFFFF" />
+
+</shape>
