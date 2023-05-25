@@ -1,6 +1,5 @@
 package com.example.deviz
 
-import android.R
 import android.graphics.drawable.InsetDrawable
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
@@ -16,7 +15,8 @@ class MainActivity2 : AppCompatActivity() {
         binding = MenuLeftSideBinding.inflate(layoutInflater)
         setContentView(binding.root)
         with(binding) {
-            radioButton1.buttonDrawable = InsetDrawable(CompoundButtonCompat.getButtonDrawable(radioButton1), 32, 0, 32, 0)
+            radioButton1.buttonDrawable =
+                InsetDrawable(CompoundButtonCompat.getButtonDrawable(radioButton1), 32, 0, 32, 0)
         }
     }
 }

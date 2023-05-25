@@ -5,7 +5,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity2">
-
 <!--    <TextView-->
 <!--        android:layout_width="wrap_content"-->
 <!--        android:layout_height="wrap_content"-->
@@ -49,5 +48,48 @@
 <!--        android:layout_width="100dp"-->
 <!--        android:layout_height="100dp"-->
 <!--        android:src="@drawable/layer_list_coin" />-->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape"
+        android:text="ssdsww" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/shape_unactived"
+        android:text="ssdsww" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector"
+        android:button="@android:color/transparent"
+        android:checked="true"
+        android:enabled="true"
+        android:text="enabled" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector"
+        android:button="@android:color/transparent"
+        android:checked="false"
+        android:enabled="true"
+        android:text="enabled" />
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/selector"
+        android:button="@android:color/transparent"
+        android:checked="false"
+        android:enabled="false"
+        android:text="enabled" />
+
+    <ImageView
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/layer_list_coin" />
 
 </LinearLayout>
