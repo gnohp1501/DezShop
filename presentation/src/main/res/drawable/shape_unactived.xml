@@ -8,7 +8,6 @@ line
     android:shape="rectangle">
 
     <!--  Border radius  -->
-<<<<<<< HEAD
 <!--    <corners-->
 <!--        android:bottomRightRadius="10dp"-->
 <!--        android:radius="40dp" />-->
@@ -41,7 +40,6 @@ line
 <!--        android:left="10dp"-->
 <!--        android:right="40dp"-->
 <!--        android:top="20dp" />-->
-=======
     <corners
         android:bottomRightRadius="10dp"
         android:radius="40dp" />
@@ -74,6 +72,5 @@ line
         android:left="10dp"
         android:right="40dp"
         android:top="20dp" />
->>>>>>> origin/commit
 
 </shape>

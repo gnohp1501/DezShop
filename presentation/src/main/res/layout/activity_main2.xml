@@ -5,8 +5,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context=".MainActivity2">
-
-<<<<<<< HEAD
 <!--    <TextView-->
 <!--        android:layout_width="wrap_content"-->
 <!--        android:layout_height="wrap_content"-->
@@ -50,7 +48,6 @@
 <!--        android:layout_width="100dp"-->
 <!--        android:layout_height="100dp"-->
 <!--        android:src="@drawable/layer_list_coin" />-->
-=======
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -94,6 +91,5 @@
         android:layout_width="100dp"
         android:layout_height="100dp"
         android:src="@drawable/layer_list_coin" />
->>>>>>> origin/commit
 
 </LinearLayout>

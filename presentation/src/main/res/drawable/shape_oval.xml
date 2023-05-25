@@ -8,7 +8,6 @@ line
     android:shape="oval">
 
     <!--  Border radius  -->
-<<<<<<< HEAD
 <!--    <corners android:radius="40dp" />-->
 
 <!--    &lt;!&ndash;  For multi color &ndash;&gt;-->
@@ -33,7 +32,6 @@ line
 <!--    <stroke-->
 <!--        android:width="10dp"-->
 <!--        android:color="#FFFFFF" />-->
-=======
     <corners android:radius="40dp" />
 
     <!--  For multi color -->
@@ -58,6 +56,5 @@ line
     <stroke
         android:width="10dp"
         android:color="#FFFFFF" />
->>>>>>> origin/commit
 
 </shape>
