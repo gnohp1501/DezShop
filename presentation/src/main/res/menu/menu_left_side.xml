@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/folder"
+        android:orderInCategory="1"
+        android:title="FOlDER"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/file"
+        android:orderInCategory="2"
+        android:title="TITLE"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/eye"
+        android:orderInCategory="3"
+        android:title="EYE"
+        app:showAsAction="always" />
+</menu>

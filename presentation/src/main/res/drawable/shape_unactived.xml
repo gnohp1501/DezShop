@@ -8,6 +8,40 @@ line
     android:shape="rectangle">
 
     <!--  Border radius  -->
+<<<<<<< HEAD
+<!--    <corners-->
+<!--        android:bottomRightRadius="10dp"-->
+<!--        android:radius="40dp" />-->
+
+<!--    &lt;!&ndash;  For multi color &ndash;&gt;-->
+<!--    <gradient-->
+<!--        android:angle="45"-->
+<!--        android:centerX="float"-->
+<!--        android:centerY="float"-->
+<!--        android:gradientRadius="integer"-->
+<!--        android:startColor="#0189ff"-->
+<!--        android:type="linear" />-->
+
+<!--    &lt;!&ndash;  For one color &ndash;&gt;-->
+<!--    &lt;!&ndash;<solid android:color="#FFFFFF" />&ndash;&gt;-->
+
+<!--    &lt;!&ndash;  Set size of shape  &ndash;&gt;-->
+<!--    <size-->
+<!--        android:width="100dp"-->
+<!--        android:height="100dp" />-->
+
+<!--    &lt;!&ndash; make border &ndash;&gt;-->
+<!--    <stroke-->
+<!--        android:width="10dp"-->
+<!--        android:color="#000000" />-->
+
+<!--    &lt;!&ndash;padding&ndash;&gt;-->
+<!--    <padding-->
+<!--        android:bottom="8dp"-->
+<!--        android:left="10dp"-->
+<!--        android:right="40dp"-->
+<!--        android:top="20dp" />-->
+=======
     <corners
         android:bottomRightRadius="10dp"
         android:radius="40dp" />
@@ -40,5 +74,6 @@ line
         android:left="10dp"
         android:right="40dp"
         android:top="20dp" />
+>>>>>>> origin/commit
 
 </shape>

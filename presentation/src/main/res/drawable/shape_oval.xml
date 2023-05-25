@@ -8,6 +8,32 @@ line
     android:shape="oval">
 
     <!--  Border radius  -->
+<<<<<<< HEAD
+<!--    <corners android:radius="40dp" />-->
+
+<!--    &lt;!&ndash;  For multi color &ndash;&gt;-->
+<!--    <gradient-->
+<!--        android:angle="45"-->
+<!--        android:centerX="float"-->
+<!--        android:centerY="float"-->
+<!--        android:endColor="#01f1fa"-->
+<!--        android:gradientRadius="integer"-->
+<!--        android:startColor="#0189ff"-->
+<!--        android:type="linear" />-->
+
+<!--    &lt;!&ndash;  For one color &ndash;&gt;-->
+<!--    &lt;!&ndash;<solid android:color="#FFFFFF" />&ndash;&gt;-->
+
+<!--    &lt;!&ndash;  Set size of shape  &ndash;&gt;-->
+<!--    <size-->
+<!--        android:width="100dp"-->
+<!--        android:height="100dp" />-->
+
+<!--    &lt;!&ndash; make border &ndash;&gt;-->
+<!--    <stroke-->
+<!--        android:width="10dp"-->
+<!--        android:color="#FFFFFF" />-->
+=======
     <corners android:radius="40dp" />
 
     <!--  For multi color -->
@@ -32,5 +58,6 @@ line
     <stroke
         android:width="10dp"
         android:color="#FFFFFF" />
+>>>>>>> origin/commit
 
 </shape>
