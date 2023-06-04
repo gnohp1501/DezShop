@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MultistateToggle</string>
+    <string name="left">Left</string>
+    <string name="center">Center</string>
+    <string name="right">Right</string>
+
+    <string-array name="dogs_array">
+        <item>Pug</item>
+        <item>Doge</item>
+        <item>Pup</item>
+        <item>Golden</item>
+    </string-array>
+</resources>

@@ -12,7 +12,5 @@ dependencyResolutionManagement {
         mavenCentral()
     }
 }
-rootProject.name = "deviz"
-include ':presentation'
-include ':domain'
-include ':data'
+rootProject.name = "MultistateToggle"
+include ':app'

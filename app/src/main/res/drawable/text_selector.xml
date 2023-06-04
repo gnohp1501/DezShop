@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools" tools:ignore="StateListReachable">
+
+    <item android:color="@color/white" android:state_enabled="false" android:state_selected="true" />
+    <item android:color="@color/gray" android:state_enabled="false" android:state_selected="false" />
+    <item android:color="@color/white" android:state_enabled="true" android:state_selected="true" />
+    <item android:color="@color/primary" android:state_enabled="true" android:state_selected="false" />
+
+</selector>
